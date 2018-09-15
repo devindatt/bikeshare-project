@@ -1,4 +1,4 @@
-[ MOTIVATE BIKE ](https://i1.wp.com/www.streetsblog.org/wp-content/uploads/2015/05/Motivate_Green_Bike.jpg)
+![alt text](https://i1.wp.com/www.streetsblog.org/wp-content/uploads/2015/05/Motivate_Green_Bike.jpg)
 
 # Python Script to Explore US Bikeshare Data
 
